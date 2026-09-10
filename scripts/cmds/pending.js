@@ -95,7 +95,7 @@ module.exports = {
       }
 
       api.sendMessage(
-`╭─✨ SYSTEM GOAT ✨─╮
+`╭─✨ 𝘼𝙔-𝙈𝘼 BOT ✨─╮
 │ 🤖 Bot : Activated
 │ 🔗 Prefix : ${prefix}
 │ ⏰ Date/Time : ${dateTime}
