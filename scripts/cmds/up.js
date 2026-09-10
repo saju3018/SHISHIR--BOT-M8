@@ -93,7 +93,7 @@ module.exports = {
 🖥 Platform: ${platform}
 💾 Memory  : ${usedMemStr} / ${totalMemStr}
 ✧━━━━━━━━━━━━━━━━━━━━✧
-⚡ Powered by NX`;
+⚡ Powered by SHISHIR `;
 
     try {
       const cachePath = path.join(__dirname, 'cache', `up_hud.png`);
