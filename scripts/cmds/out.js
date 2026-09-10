@@ -24,7 +24,7 @@ module.exports = {
       id = parseInt(args.join(" "));
     }
 
-    const leaveMessage = `𝐥𝐞𝐟𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩..!🦆💨`;
+    const leaveMessage = `-শিশির বস বের করে দিলা খুব কষ্ট পাইলাম ভালো থাইকো ভাবির খেয়াল রাইখো LOVE YOU Boss-☺️🫂👑..!🦆💨`;
 
     return api.sendMessage(
       leaveMessage,
