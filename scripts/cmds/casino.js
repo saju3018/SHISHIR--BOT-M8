@@ -40,7 +40,7 @@ module.exports = {
 🎫 4. Difference → ${prefix}casino diff [guess 1-6] [amount]
 🍒 5. Slot → ${prefix}casino slot [amount]
 
-💰 Minimum bet: 50$
+💰 Minimum bet: 20000000$
 💵 Your balance: ${moneyUser.toLocaleString()}$`,
         threadID, messageID
       );
